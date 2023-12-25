@@ -1,0 +1,14 @@
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\bin\Debug\net7.0\Attest.DomZad7.exe
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\bin\Debug\net7.0\Attest.DomZad7.deps.json
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\bin\Debug\net7.0\Attest.DomZad7.runtimeconfig.json
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\bin\Debug\net7.0\Attest.DomZad7.dll
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\bin\Debug\net7.0\Attest.DomZad7.pdb
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.AssemblyInfoInputs.cache
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.AssemblyInfo.cs
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.csproj.CoreCompileInputs.cache
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.dll
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\refint\Attest.DomZad7.dll
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.pdb
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\Attest.DomZad7.genruntimeconfig.cache
+C:\Users\Елена\Desktop\SemProgram7\Attest.DomZad7\obj\Debug\net7.0\ref\Attest.DomZad7.dll
